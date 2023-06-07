@@ -36,5 +36,9 @@ canvas {
         max-width: 1400px;
     }
 }
+
+.navbar-toggler-icon {
+    color: #000000;
+}
   
   
